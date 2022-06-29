@@ -1,11 +1,11 @@
 ## Building Utility Class for String Array Objects
 * **Objective**
     * Ensure [StringArrayUtilsTest](https://github.com/Zipcoder/CR-MicroLabs-Arrays-StringArrayUtilities/blob/master/src/test/java/com/zipcodewilmington/StringArrayUtilsTest.java) passes each test by completing the methods [stubbed out](https://en.wikipedia.org/wiki/Method_stub) in the class [StringArrayUtils](https://github.com/Zipcoder/CR-MicroLabs-Arrays-StringArrayUtilities/blob/master/src/main/java/com/zipcodewilmington/StringArrayUtils.java)
-        * `String getFirstElement(String[] array)`
-        * `String getSecondElement(String[] array)`
-        * `String getLastElement(String[] array)`
-        * `String getSecondToLastElement(String[] array)`
-        * `boolean contains(String[] array, String value)`
+        * `String getFirstElement(String[] array)` X
+        * `String getSecondElement(String[] array)` X
+        * `String getLastElement(String[] array)` X
+        * `String getSecondToLastElement(String[] array)` X
+        * `boolean contains(String[] array, String value)` 
         * `String[] reverse(String[] array)`
         * `boolean isPalindromic(String[] array)`
         * `boolean isPangramic(String[] array)`
